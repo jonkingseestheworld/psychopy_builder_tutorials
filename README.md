@@ -1,2 +1,2 @@
 # psychopy_tutorials
-A repository to store and share the tutorial materials that were prepared for a basic experiment building module
+A space to store and share the tutorial materials that were prepared for a Psychology module on basic experiment building
